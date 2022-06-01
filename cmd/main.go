@@ -7,13 +7,12 @@ import (
 
 var (
 	log         = mylog.NewLoggerDefault("main", mylog.LevelInfo, nil)
-	csdnTotal   = int64(1022)
-	weixinTotal = int64(392)
-	circle      = "April.2022"
+	csdnTotal   = int64(1252)
+	weixinTotal = int64(388)
+	circle      = "May.2022"
 )
 
 func main() {
-	log.Info("Start draw, Just wait")
+	log.Info("Start draw", circle, "Just wait")
 	logic.Execute(csdnTotal, weixinTotal, circle)
 }
-
