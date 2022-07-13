@@ -6,3 +6,7 @@
 [0m
 2022-06-01 15:07:32.734214	[34mINFO[0m	logic/draw.go:33	[94m▶ [logic] Congratulations！User Number: csdn - 466 Get May.2022 Reward!
 [0m
+2022-07-13 21:33:57.335313	[34mINFO[0m	cmd/main.go:16	[94m▶ [main] Start draw June.2022 Just wait
+[0m
+2022-07-13 21:33:57.335954	[34mINFO[0m	logic/draw.go:33	[94m▶ [logic] Congratulations！User Number: csdn - 600 Get June.2022 Reward!
+[0m

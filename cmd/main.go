@@ -7,9 +7,9 @@ import (
 
 var (
 	log         = mylog.NewLoggerDefault("main", mylog.LevelInfo, nil)
-	csdnTotal   = int64(1252)
-	weixinTotal = int64(388)
-	circle      = "May.2022"
+	csdnTotal   = int64(1667)
+	weixinTotal = int64(390)
+	circle      = "June.2022"
 )
 
 func main() {
